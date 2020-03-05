@@ -1,0 +1,19 @@
+.catCaption{
+    border: solid cadetblue;
+}
+
+td.catCaption{
+    background-color: aqua;
+}
+
+tr{
+    margin:0px;
+}
+
+#catTable{
+    border: solid cornflowerblue 30px;
+}
+
+.sadCat{
+    height:300px;
+}
